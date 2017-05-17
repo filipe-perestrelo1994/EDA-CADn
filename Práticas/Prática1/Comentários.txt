@@ -1,0 +1,11 @@
+1- Os resultados obtidos demonstram a necessidade de utilizar modelos alternativos ao de Schokley uma vez que as curvas ID(VGS) para os dois transístores
+não coincidem na experiência realizada, algo de inesperado tendo em conta a fórmula de ID(VGS): Sabendo que ID = K(VGS-Vt)^n e K=miu*Cox*(W/L), em condições normais,
+para os dois transistors considerados neste trabalho, K deve ser igual para os dois uma vez que a constante Cox é a mesma para ambos bem como a razão
+(W/L) e miu, os valores de VGS considerados para ambas as experiências foram os mesmos tal como o valor de Vt e m é igual em ambos os ensaios;
+
+2- Os resultados provam a precisão superior do modelo n-power, apesar da aproximação não ser perfeita, comparativamente com o modelo de Schokley, apresenta resultados
+mais rigorosos e aproximados com o que se verificou em ambiente de simulação. Nota para o facto do modelo n-power ser bastante preciso nas zonas linear e de saturação.
+
+3- Os resultados, na generalidade, são coerentes com os valores obtidos na parte 2. Nesta parte, a principal fonte de imprecisões pode ter sido a selecção dos valores 
+de Id para a realização do fitting de Idsat, procurou-se seleccionar valores de id na zona de saturação, contudo, o critério usado para a selecção desses valores foi 
+meramente prático.

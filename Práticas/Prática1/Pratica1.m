@@ -1,0 +1,4 @@
+
+
+M=LerTabela;
+plot(M);
